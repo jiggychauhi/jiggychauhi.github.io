@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-1 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I'll be joining Prof. [Karthik V Raman](https://www.tifrh.res.in/~kvraman/)'s lab for my summer project :sparkles: :smile:
