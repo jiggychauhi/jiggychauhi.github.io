@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.niser.ac.in/'>National Institute of Science Education and Research</a> | Undergraduate Physics Major
+subtitle: <a href='https://www.niser.ac.in/'>NISER</a> | Undergraduate Physics Major
 
 profile:
   align: right
